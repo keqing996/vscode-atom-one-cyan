@@ -1,0 +1,38 @@
+{
+  "name": "atom-one-light-cyan",
+  "displayName": "Atom One Light Cyan",
+  "description": "A beautiful Atom One Light theme with cyan accents for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "atom-one-light-cyan",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "atom",
+    "one",
+    "light",
+    "cyan",
+    "theme",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atom One Light Cyan",
+        "uiTheme": "vs",
+        "path": "./themes/atom-one-light-cyan.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": "xxx"
+  },
+  "license": "MIT"
+}

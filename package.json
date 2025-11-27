@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/keqing996/vscode-atom-one-light-cyan"
   },
   "bugs": {
-    "url": "xxx"
+    "url": "https://github.com/keqing996/vscode-atom-one-light-cyan/issues"
   },
   "license": "MIT"
 }

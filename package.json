@@ -24,6 +24,11 @@
         "label": "Atom One Light Cyan",
         "uiTheme": "vs",
         "path": "./themes/atom-one-light-cyan.json"
+      },
+      {
+        "label": "Atom One Dark Cyan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atom-one-dark-cyan.json"
       }
     ]
   },

@@ -1,9 +1,10 @@
 {
   "name": "atom-one-light-cyan",
-  "displayName": "Atom One Light Cyan",
-  "description": "A beautiful Atom One Light theme with cyan accents for Visual Studio Code",
+  "displayName": "Atom On Cyan",
+  "description": "A beautiful Atom One theme with cyan accents for Visual Studio Code",
+  "icon": "image/AtomOneCyan.png",
   "version": "1.0.0",
-  "publisher": "atom-one-light-cyan",
+  "publisher": "atom-one-cyan",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -14,6 +15,7 @@
     "atom",
     "one",
     "light",
+    "dark",
     "cyan",
     "theme",
     "color-theme"
@@ -21,12 +23,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Atom One Light Cyan",
+        "label": "Atom One Cyan Light",
         "uiTheme": "vs",
         "path": "./themes/atom-one-light-cyan.json"
       },
       {
-        "label": "Atom One Dark Cyan",
+        "label": "Atom One Cyan Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/atom-one-dark-cyan.json"
       }
@@ -34,10 +36,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/keqing996/vscode-atom-one-light-cyan"
+    "url": "https://github.com/keqing996/vscode-atom-one-cyan"
   },
   "bugs": {
-    "url": "https://github.com/keqing996/vscode-atom-one-light-cyan/issues"
+    "url": "https://github.com/keqing996/vscode-atom-one-cyan/issues"
   },
   "license": "MIT"
 }

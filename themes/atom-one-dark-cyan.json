@@ -135,7 +135,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#c792ea"
       }
     },
     {
@@ -192,6 +192,15 @@
       ],
       "settings": {
         "foreground": "#e06c75"
+      }
+    },
+    {
+      "name": "Function Parameter",
+      "scope": [
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#97b1be"
       }
     },
     {
@@ -410,7 +419,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#61afef"
+        "foreground": "#56b6c2"
       }
     },
     {
@@ -429,7 +438,7 @@
         "entity.name.scope-resolution"
       ],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#61afef"
       }
     }
   ]

@@ -195,6 +195,15 @@
       }
     },
     {
+      "name": "Function Parameter",
+      "scope": [
+        "variable.parameter"
+      ],
+      "settings": {
+        "foreground": "#6A7E8A"
+      }
+    },
+    {
       "name": "Function",
       "scope": [
         "entity.name.function",
